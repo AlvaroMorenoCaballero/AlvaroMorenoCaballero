@@ -64,8 +64,8 @@
 ### 🧠&nbsp;Análisis 
 
 <p align="center">
-<a href="https://github.com/Kqtz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kqtz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kqtz&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AlvaroMorenoCaballero">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlvaroMorenoCaballero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlvaroMorenoCaballero&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
